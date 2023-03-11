@@ -1,0 +1,24 @@
+{
+  "name": "simple-vue3cli-apollo-i18n-router-meta",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.7.9",
+    "@vue/apollo-composable": "^4.0.0-beta.4",
+    "graphql": "^16.6.0",
+    "vue": "^3.2.13",
+    "vue-i18n": "^9.2.2",
+    "vue-meta": "^3.0.0-alpha.10",
+    "vue-router": "^4.0.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "sass": "^1.58.3",
+    "sass-loader": "^13.2.0"
+  }
+}

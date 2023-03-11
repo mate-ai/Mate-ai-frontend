@@ -1,0 +1,23 @@
+{
+    "message": "Bienvenue sur votre projet Vue 3 !",
+    "router": {
+        "title": "Vue-router Exemple",
+        "home": "Accueil",
+        "about": "À propos"
+    },
+    "graphql": {
+        "title": "Graphql Exemple",
+        "router": "Les liens utilise la route /article/:id pour lier ArticleView.vue"
+    },
+    "i18n": {
+        "title": "i18n Exemple",
+        "switch": "Changer la langue du site :",
+        "content": "Le Guide du voyageur galactique (titre original : The Hitchhiker's Guide to the Galaxy, abrégé notamment en H2G2) est une œuvre de science-fiction humoristique multidisciplinaire imaginée par l’écrivain britannique Douglas Adams. Son nom provient de l’objet symbolique de la série : un livre électronique intitulé Le Guide du voyageur galactique. Née en 1978 sous forme de feuilleton radiophonique, l’œuvre a depuis été déclinée dans de nombreux médias au cours de différentes adaptations : romans, pièces de théâtre, série télévisée, jeux vidéo, bande dessinée, long métrage pour le cinéma.",
+        "localized-link": "Exemple de liens régionalisé :",
+        "source": "https://fr.wikipedia.org/wiki/Le_Guide_du_voyageur_galactique"
+    },
+    "docs": "Documentation des dépendances",
+    "about" : "Ceci est la page à propos contenu dans le fichier /views/AboutViews.vue",
+    "luck": "Bonne chance pour ton projet !"
+}
+  

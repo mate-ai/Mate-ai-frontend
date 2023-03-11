@@ -1,0 +1,23 @@
+{
+    "message": "¡Bienvenido a tu proyecto Vue 3!",
+    "router": {
+        "title": "Vue-router Ejemplo",
+        "home": "Página principal",
+        "about": "A propósito"
+    },
+    "graphql": {
+        "title": "Graphql Ejemplo",
+        "router": "Los enlaces utilizan la ruta /article/:id para enlazar ArticleView.vue"
+    },
+    "i18n": {
+        "title": "i18n Ejemplo",
+        "switch": "Cambie el idioma del sitio web:",
+        "content": "La Guía del autoestopista galáctico (título original The Hitchhiker's Guide to the Galaxy) es una serie de novelas de ciencia ficción humorística del escritor inglés Douglas Adams. Originalmente una comedia radiofónica comenzada a transmitir por la BBC en 1978, a esta la siguió una novela, Guía del autoestopista galáctico, publicada en 1979, una serie de televisión en 1981, un juego de ordenador en 1984 y una película en 2005.",
+        "localized-link": "Ejemplo de enlaces regionalizados:",
+        "source": "https://es.wikipedia.org/wiki/Guía_del_autoestopista_galáctico_(serie)"
+    },
+    "docs": "Documentación de dependencias",
+    "about" : "Esta es la página de información contenida en el archivo /views/AboutViews.vue",
+    "luck": "Buena suerte con su proyecto."
+}
+  
