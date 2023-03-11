@@ -1,0 +1,1 @@
+# simple-vue3cli-apollo-i18n-router-meta
