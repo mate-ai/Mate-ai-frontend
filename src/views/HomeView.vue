@@ -11,6 +11,7 @@
       <ul>
         <a href="https://router.vuejs.org">vue-router</a>
         <a href="https://apollo.vuejs.org">apollo (graphql client)</a>
+        <a href="https://v4.apollo.vuejs.org/guide-composable/setup.html">apollo-composable</a>
         <a href="https://vue-i18n.intlify.dev">vue-i18n</a>
         <a href="https://vue-meta.nuxtjs.org">vue-meta</a>
       </ul>
