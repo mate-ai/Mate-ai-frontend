@@ -34,10 +34,10 @@ yarn run serve
 ```
 
 
-## Dependencies
+## Dependencies documentations
 
 [@apollo/client](https://apollo.vuejs.org)
 [@vue/apollo-composable](https://v4.apollo.vuejs.org/guide-composable/setup.html)
 [vue-i18n](https://vue-i18n.intlify.dev)
-[vue-meta](https://linktodocumentation)
-[vue-router](https://vue-meta.nuxtjs.org)
+[vue-meta](https://vue-meta.nuxtjs.org")
+[vue-router](https://router.vuejs.org)
