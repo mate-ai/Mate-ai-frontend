@@ -59,6 +59,7 @@ export default {
     & h1 {
       color: $white;
       font-size: 25px;
+      text-align: center;
       text-transform: capitalize;
     }
     & ul {
