@@ -2,6 +2,7 @@
   <metainfo>
     <template v-slot:title="{ content }">{{ content ? `${content} | MyVueApp.com` : `YOUR SITE` }}</template>
   </metainfo>
+  <!--
   <nav>
     <h1>{{ $t('router.title') }}</h1>
     <div>
@@ -9,6 +10,7 @@
       <router-link to="/about">{{ $t('router.about') }}</router-link>
     </div>
   </nav>
+  -->
   <router-view />
 </template>
 
@@ -43,6 +45,7 @@ a {
   -moz-osx-font-smoothing: grayscale;
   background-color: $black;
   height: 100vh;
+  width: 100vw;
 }
 
 nav {
